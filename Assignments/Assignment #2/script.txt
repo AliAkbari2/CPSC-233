@@ -1,0 +1,29 @@
+Enter x1 value for point
+6.8
+Enter y1 value for point
+2.1
+Enter x2 value for point
+4.5
+Enter y2 value for point
+2.5
+Enter x3 value for point
+10
+Enter y3 value for point
+11
+Enter deltaX
+0
+Enter deltaY
+13.2
+The id of point one is 1
+The coordinates of point one is (6.8,15.299999999999999)
+Point One is 16.743058263053378away from the origin
+The id of point two is 2
+The coordinates of point two is (4.5,15.7)
+Point One is 16.33217682980441away from the origin
+The id of point three is 3
+The coordinates of point three is (10.0,24.2)
+Point One is 26.18472837361503away from the origin
+The average coordinates is (7.1000000000000005,18.400000000000002)
+The id of averages point  is 5
+The number of actives is 5
+The number of actives after GC is 2

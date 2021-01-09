@@ -1,0 +1,337 @@
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+1
+Enter 1 to create a circle or 2 to create a rectangle
+1
+Created Circle
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+1
+Enter 1 to create a circle or 2 to create a rectangle
+1
+Created Circle
+
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+1
+Enter 1 to create a circle or 2 to create a rectangle
+2
+Created Rectangle
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+1
+Enter 1 to create a circle or 2 to create a rectangle
+2
+Created Rectangle
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+1
+Enter 1 to create a circle or 2 to create a rectangle
+22
+Invalid choice
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+2
+Which shape would you like to set the origin? Enter an index of Arraylist.
+1
+Enter the x value for the origin of the shape
+0.4
+Enter the y value for the origin of the shape
+34
+Set the origin of the shape to (0.4 ,34.0)
+
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+2
+Which shape would you like to set the origin? Enter an index of Arraylist.
+2
+Enter the x value for the origin of the shape
+5.6
+Enter the y value for the origin of the shape
+3.4
+Set the origin of the shape to (5.6 ,3.4)
+
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+3
+Which shape would you like to set the dimensions of? Enter an index of Arraylist.
+1
+Enter the value for the radius of the Circle
+50
+Set the radius of the Circle to (50.0 )
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+3
+Which shape would you like to set the dimensions of? Enter an index of Arraylist.
+3
+Enter the value for the length of the Rectangle
+56
+Set the length of the Rectangle to (56.0)
+Enter the value for the width of the Rectangle
+12
+Set the width of the Rectangle to (12.0)
+
+
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+4
+There are 4 Shapes choose one to display current state
+1
+Type: Circle	 The X value is 0.4 The Y value is 34.0 Radius = 50.0 circumference of circle is = 314.1592653589793 Area of circle is = 7853.981633974483
+
+
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+4
+There are 4 Shapes choose one to display current state
+3
+Type: Rectanlge	 The X value is 0.0 The Y value is 0.0 Lenght= 56.0 Width 12.0 primeter of rectangle is = 136.0 Area of rectangle is = 672.0
+
+
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+5
+There are 4 Shapes choose one to move
+1
+How much do you want to move by for x?
+4
+Delta x is 4.0
+How much do you want to move by for y?
+3.4
+Delta y is 3.4
+Origin is moved to (4.0,3.4)
+
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+6
+There are4 Shapes choose two to find the distance between each of them
+Choose the first shape
+1
+Choose the second shape
+2
+The Distance between the two shapes are 0.0
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+8
+Type: Circle	 The X value is 4.4 The Y value is 37.4 Radius = 50.0 circumference of circle is = 314.1592653589793 Area of circle is = 7853.981633974483
+Type: Circle	 The X value is 5.6 The Y value is 3.4 Radius = 50.0 circumference of circle is = 314.1592653589793 Area of circle is = 7853.981633974483
+Type: Rectanlge	 The X value is 0.0 The Y value is 0.0 Lenght= 56.0 Width 12.0 primeter of rectangle is = 136.0 Area of rectangle is = 672.0
+Type: Rectanlge	 The X value is 0.0 The Y value is 0.0 Lenght= 56.0 Width 12.0 primeter of rectangle is = 136.0 Area of rectangle is = 672.0
+
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+7
+There are 4 Shapes which one would you like to delete?
+3
+There are 3 shapes left
+
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+7
+There are 3 Shapes which one would you like to delete?
+3
+There are 2 shapes left
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+8
+Type: Circle	 The X value is 4.4 The Y value is 37.4 Radius = 50.0 circumference of circle is = 314.1592653589793 Area of circle is = 7853.981633974483
+Type: Circle	 The X value is 5.6 The Y value is 3.4 Radius = 50.0 circumference of circle is = 314.1592653589793 Area of circle is = 7853.981633974483
+
+
+
+-----------------------------------------------------------------------------
+Please choose an option (1-9):
+1 - Create a shape.
+2 - Set the origin of a shape.
+3 - Set the dimensions for a shape.
+4 - Display the state of a shape.
+5 - Move a shape.
+6 - Find the distance between two shapes.
+7 - Remove a shape.
+8 - List the state of all shapes.
+9 - Quit.
+9
+Program closed.
