@@ -9,6 +9,6 @@ Course Hours:
 Prerequisite(s):
 Computer Science 231.
 
-Instructor: Leonard Manzara
-TA: Edwin Chan
+Instructor: Leonard Manzara  
+TA: Edwin Chan  
 Overall grade: B+
